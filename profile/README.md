@@ -11,7 +11,7 @@ Panostan:
 ###  Yksityishenkilöille
 
 -  IT-tuki: ohjelmistopäivitykset, ongelmatilanteet
-- Laiteasennukset ja tietoturvan parannukset
+-  Laiteasennukset ja tietoturvan parannukset
 -  Tietokoneiden kasaus ja huolto
 
 ###  Yrityksille
@@ -27,7 +27,6 @@ Panostan:
 
 ## 📫 Yhteystiedot
 
-- 🔗 [Santeri GitHubissa](https://github.com/santeri1337)
 - ✉️ Sähköposti: *santeri@bittisilta.fi*  
 - 🌐 Verkkosivut: *https://bittisilta.fi*
 
